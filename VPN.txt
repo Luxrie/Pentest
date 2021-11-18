@@ -1,0 +1,9 @@
+/home/kali/Donwload
+no terminal
+entre dentro da pasta do vpn
+ex; VPNBook.com-OpenVPN-PL226/
+de ls e escolha um dos arquivos ovpn
+e digite; openvpn vpnbook-pl226-tcp80.ovpn
+insira o nome e a senha do vpn que esta no site. O meu é;
+User: vpnbook 
+Password: 8shx95n 

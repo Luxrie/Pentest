@@ -1,0 +1,11 @@
+sqlmap -r test.txt --dbs --dbms=mysql
+
+needs>
+
+GET
+Host
+User-Agent
+accept
+Cookie
+
+sqlmap --url https://google.com/. --random-agent --level 5 --risk 3 -v9 --dbs
